@@ -16,4 +16,4 @@ Usage examples can be found in the examples directory.
 You can install the package from the Julia prompt
 ```
 Pkg.clone("git@github.com:madeleineudell/Graphons.jl.git")
-``
+```
